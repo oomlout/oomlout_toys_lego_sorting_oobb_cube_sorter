@@ -15,7 +15,7 @@ production_format:
   a4_6_160_mm_hole:
     file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_160_mm_hole_a4.cdr
   tileable: 
-    file_location: oomlout_toys_lego_sorting_oobb_cube_sorter_tileable_629_mm_x_419_mm.cdr
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_tileable_629_mm_x_419_mm.cdr
     width: 629 mm 
     height: 419 mm
   
