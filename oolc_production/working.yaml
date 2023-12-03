@@ -1,0 +1,22 @@
+project_id: oomlout_toys_lego_sorting_odd_box_extra_small_sorter
+project_name: "Lego Sorter Using Odd Box Extra Small Box As Base"
+project_repo: github.com/oomlout/oomlout_toys_lego_sorting_odd_box_extra_small_sorter
+production_format:
+  a4_1_base:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_base_a4.cdr
+  a4_2_15_mm_hole:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_15_mm_hole_a4.cdr
+  a4_3_20_mm_hole:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_20_mm_hole_a4.cdr
+  a4_4_30_mm_hole:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_30_mm_hole_a4.cdr
+  a4_5_40_mm_hole:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_40_mm_hole_a4.cdr
+  a4_6_160_mm_hole:
+    file_location: source_files/oomlout_toys_lego_sorting_oobb_cube_sorter_160_mm_hole_a4.cdr
+  tileable:
+    file_location: oomlout_toys_lego_sorting_oobb_cube_sorter_tileable_629_mm_x_419_mm.cdr
+    width: 629 mm 
+    height: 419 mm
+  
+  
