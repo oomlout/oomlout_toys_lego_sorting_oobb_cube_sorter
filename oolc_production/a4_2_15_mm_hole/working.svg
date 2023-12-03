@@ -5,7 +5,7 @@
 viewBox="0 0 21000 29700"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-style="normal" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -43,7 +43,7 @@ viewBox="0 0 21000 29700"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_849659120">
+  <g id="_846694016">
    <circle class="fil0 str0" cx="14500" cy="17475" r="750"/>
    <circle class="fil0 str0" cx="12500" cy="17475" r="750"/>
    <circle class="fil0 str0" cx="10500" cy="17475" r="750"/>
