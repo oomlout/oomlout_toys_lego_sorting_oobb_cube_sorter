@@ -5,7 +5,7 @@
 viewBox="0 0 21000 29700"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -69,7 +69,7 @@ viewBox="0 0 21000 29700"
   <circle class="fil0 str0" cx="7000" cy="21850" r="1500"/>
   <circle class="fil0 str0" cx="3500" cy="21850" r="1500"/>
   <text x="3667" y="24033"  class="fil0 str2 fnt0">oomlout_toys_lego_sorting_oobb_cube_sorter_30_mm_hole 15_15</text>
-  <g id="_697201872">
+  <g id="_847819680">
    <circle class="fil0 str0" cx="750" cy="5100" r="300"/>
    <circle class="fil0 str0" cx="750" cy="6600" r="300"/>
    <circle class="fil0 str0" cx="750" cy="5850" r="150"/>
